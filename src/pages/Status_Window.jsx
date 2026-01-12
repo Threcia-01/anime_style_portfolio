@@ -80,7 +80,7 @@ export default function StatusWindow() {
               </div>
 
               <a
-                href="/resume/Deepanshu_Resume.pdf"
+                href="/resume/12_1_25_Deepanshu_Resume.pdf"
                 download
                 className="inline-block mt-6 px-6 py-3 rounded-lg bg-indigo-500 hover:bg-indigo-600 transition font-medium text-white"
               >
